@@ -1,0 +1,15 @@
+Z:\2023\C#\sem\dz\dz\zadacha19\bin\Debug\net7.0\zadacha19.exe
+Z:\2023\C#\sem\dz\dz\zadacha19\bin\Debug\net7.0\zadacha19.deps.json
+Z:\2023\C#\sem\dz\dz\zadacha19\bin\Debug\net7.0\zadacha19.runtimeconfig.json
+Z:\2023\C#\sem\dz\dz\zadacha19\bin\Debug\net7.0\zadacha19.dll
+Z:\2023\C#\sem\dz\dz\zadacha19\bin\Debug\net7.0\zadacha19.pdb
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.csproj.AssemblyReference.cache
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.AssemblyInfoInputs.cache
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.AssemblyInfo.cs
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.csproj.CoreCompileInputs.cache
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.dll
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\refint\zadacha19.dll
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.pdb
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\zadacha19.genruntimeconfig.cache
+Z:\2023\C#\sem\dz\dz\zadacha19\obj\Debug\net7.0\ref\zadacha19.dll
