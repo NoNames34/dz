@@ -30,3 +30,4 @@ Console.WriteLine("Введите полоительное трёхзначны�
                             Console.Write("]");
                             Console.WriteLine();
                         }
+                        
